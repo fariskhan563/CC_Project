@@ -1,0 +1,22 @@
+{
+#program 1
+
+num1 = 2.5
+num2 = 7.8
+sum = float(num1) + float(num2)
+print('The sum of {0} and {1} is {2}')
+num = int(input("Enter a number: "))
+if (num % 2) == 0:
+   print("{0} is Even".format(num))
+else:
+   print("{0} is Odd".format(num))
+
+}
+{
+#program 2
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+}
+

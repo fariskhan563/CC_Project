@@ -1,0 +1,6 @@
+C:\Users\786 computers\Desktop\New folder (2)\Parser\Parser\bin\Debug\Parser.exe.config
+C:\Users\786 computers\Desktop\New folder (2)\Parser\Parser\bin\Debug\Parser.exe
+C:\Users\786 computers\Desktop\New folder (2)\Parser\Parser\bin\Debug\Parser.pdb
+C:\Users\786 computers\Desktop\New folder (2)\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Users\786 computers\Desktop\New folder (2)\Parser\Parser\obj\Debug\Parser.exe
+C:\Users\786 computers\Desktop\New folder (2)\Parser\Parser\obj\Debug\Parser.pdb

@@ -1,0 +1,30 @@
+c:\users\nausif\documents\visual studio 2015\Projects\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe.config
+c:\users\nausif\documents\visual studio 2015\Projects\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe
+c:\users\nausif\documents\visual studio 2015\Projects\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.pdb
+c:\users\nausif\documents\visual studio 2015\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csprojResolveAssemblyReference.cache
+c:\users\nausif\documents\visual studio 2015\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.exe
+c:\users\nausif\documents\visual studio 2015\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.pdb
+C:\Users\786 computers\Downloads\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe.config
+C:\Users\786 computers\Downloads\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.exe
+C:\Users\786 computers\Downloads\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.pdb
+C:\Users\786 computers\Downloads\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe
+C:\Users\786 computers\Downloads\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.pdb
+C:\Users\786 computers\Downloads\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csprojResolveAssemblyReference.cache
+D:\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe.config
+D:\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.exe
+D:\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.pdb
+D:\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe
+D:\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.pdb
+D:\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Mohsin\Desktop\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe.config
+C:\Users\Mohsin\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.exe
+C:\Users\Mohsin\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.pdb
+C:\Users\Mohsin\Desktop\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe
+C:\Users\Mohsin\Desktop\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Mohsin\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\786 computers\Desktop\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe.config
+C:\Users\786 computers\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.exe
+C:\Users\786 computers\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.pdb
+C:\Users\786 computers\Desktop\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe
+C:\Users\786 computers\Desktop\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.pdb
+C:\Users\786 computers\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csprojResolveAssemblyReference.cache
